@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+
+
+
+<h1 style="background-color:DodgerBlue;">Hello customers</h1>
+<h2>This is our menu</h2>
+
+
+<p style="background-color:Tomato;"
+
+  ></p>
+
+
+
+
+<table style="width:50%">
+  <tr>
+    <th>Cafe menu</th>
+    <th>Categories</th> 
+    <th>Price</th>
+  </tr>
+  <tr>
+    <th>Chai</td>
+    <th>drink</td>
+    <th>60</td>
+  </tr>
+  <tr>
+    <th>Biryani</td>
+    <th>Dinner</td>
+    <th>250</td>
+  </tr>
+  <tr>
+    <th>Burger</td>
+    <th>Fast food</td>
+    <th>150</td>
+  </tr>
+
+</table>
+
+
+
+
+<h2>The picture</h2>
+
+<picture>
+
+  
+  <img src="C:\Users\Lab\Downloads\IICT TASK NOW\image\images 2 now.jfif" alt="Disription" style="width:auto;">
+</picture>
+
+
+
+<h2>Input Button</h2>
+
+<input type="button" onclick="alert('Order confirmed!')" value="Confirm!">
+
+
+</body>
+</html>
