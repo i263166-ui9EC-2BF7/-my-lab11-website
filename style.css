@@ -1,0 +1,45 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff5e6;
+    margin: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    padding: 20px;
+}
+
+h2 {
+    color: #8b4513;
+}
+
+table {
+    width: 70%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 12px;
+}
+
+th {
+    background-color: dodgerblue;
+    color: white;
+}
+
+input[type="button"] {
+    background-color: tomato;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+
